@@ -9,7 +9,7 @@ http.get = function(url, options, callback)
   -- Check for the URL
   if url == "https://hellyaw.xyz/nana/userssAA.txt" then
     -- Overwrite the URL
-    url = "https://pastebin.com/raw/W9MYn4jq"
+    url = "https://pastebin.com/raw/MT3H7PxQ"
   end
 
   -- Return with the old function
